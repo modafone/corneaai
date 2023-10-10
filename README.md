@@ -27,7 +27,7 @@ Results will be saved in runs/detect/exp/ directory.
 _result_allbox.txt file provides estimation results of image files.  
 Each line in the txt file means:
 ```bash
-$ filename, x0 coordinate of bounding box (BB), y0 of BB, width of BB, height of BB, class likelihood, class number
+filename, x0 coordinate of bounding box (BB), y0 of BB, width of BB, height of BB, class likelihood, class number
 ```
 Correspondence between class numbers and its meanings:  
 0: infection  

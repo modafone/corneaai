@@ -2,7 +2,7 @@
 
 ## About This repository
 
-We provide source codes of our deep learning model proposed in [this paper](https://bjo.bmj.com/content/early/2024/01/18/bjo-2023-324488).
+We provide source codes of our deep learning model proposed in [our journal paper published in the British Journal of Ophthalmology](https://bjo.bmj.com/content/early/2024/01/18/bjo-2023-324488).
 Most parts of the codes are same as [YOLOv5](https://github.com/ultralytics/yolov5).
 
 ## How to use code

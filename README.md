@@ -3,6 +3,10 @@
 ## About This repository
 
 We provide source codes of our deep learning model proposed in [our journal paper published in the British Journal of Ophthalmology](https://bjo.bmj.com/content/early/2024/01/18/bjo-2023-324488).
+
+Citation information of our journal paper:
+>Ueno Y, Oda M, Yamaguchi T, et al. Deep learning model for extensive smartphone-based diagnosis and triage of cataracts and multiple corneal diseasesBritish Journal of Ophthalmology Published Online First: 19 January 2024. doi: 10.1136/bjo-2023-324488
+
 Most parts of the codes are same as [YOLOv5](https://github.com/ultralytics/yolov5).
 
 ## How to use code

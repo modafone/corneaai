@@ -1,8 +1,9 @@
-# Deep Learning Model for Extensive Smartphone-based Diagnosis
+# Deep learning model for extensive smartphone-based diagnosis and triage of cataracts and multiple corneal diseases
 
 ## About This repository
 
-Source code of our deep learning model is provided here. Most parts of the codes are same as [YOLOv5](https://github.com/ultralytics/yolov5).
+We provide source codes of our deep learning model proposed in [this paper](https://bjo.bmj.com/content/early/2024/01/18/bjo-2023-324488).
+Most parts of the codes are same as [YOLOv5](https://github.com/ultralytics/yolov5).
 
 ## How to use code
 
